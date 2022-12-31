@@ -1,3 +1,3 @@
-Planetary Orbits 
+Planetary Orbits
 
 ![alt text](./img.png)
